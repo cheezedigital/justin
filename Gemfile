@@ -13,5 +13,8 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 gem 'bootstrap-sass'
 gem 'devise'
-
 gem 'thin'
+
+group :development do
+  gem 'xray-rails'
+end
