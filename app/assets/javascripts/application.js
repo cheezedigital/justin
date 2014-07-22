@@ -12,5 +12,6 @@
 
 //= require jquery
 //= require jquery_ujs
+//= require sidebar
 //= require bootstrap
 //= require_tree .
