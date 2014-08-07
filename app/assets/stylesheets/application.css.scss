@@ -1,13 +1,5 @@
 @import 'bootstrap';
 
-/*!
- * Start Bootstrap - Stylish Portfolio Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
-
-/* Global Styles */
-
 html,
 body {
     width: 100%;
@@ -16,7 +8,7 @@ body {
 
 body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 20px; 
+    font-size: 20px;
 }
 
 .text-vertical-center {
@@ -65,7 +57,6 @@ body {
 hr.small {
     max-width: 100px;
 }
-
 /* Side Menu */
 
 #sidebar-wrapper {
@@ -175,7 +166,7 @@ hr.small {
 
 .services {
     padding: 50px 0;
-    background-color: #7f8c8d;
+    background-color: #1e1e1e;
 }
 
 .service-item {
@@ -218,7 +209,7 @@ hr.small {
 
 .call-to-action {
     padding: 50px 0;
-    background-color: #7f8c8d;
+    background-color: #1e1e1e;
 }
 
 .call-to-action .btn {
@@ -241,5 +232,5 @@ hr.small {
 
 footer {
     padding: 100px 0;
-    background-color: #7f8c8d;
+    background-color: #1e1e1e;
 }
